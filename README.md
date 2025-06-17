@@ -1,5 +1,7 @@
 # 广义算点判定与概率统计系统
 
+蒋文聪的课程作业之一，与[24点求解器](https://github.com/Moonlit-Whisper/24solverjiangwencong)相辅相成
+
 基于递归和暴力枚举的“广义算点”判定与概率统计系统  
 （Generalized Point Game Probability System, Recursion & Brute-force Version）
 
